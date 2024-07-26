@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meme App</string>
+    <string name="meme_app_using_api">Meme App using API</string>
+</resources>
